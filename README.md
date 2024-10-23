@@ -1,6 +1,4 @@
-Aquí te dejo un ejemplo de un archivo `README.md` basado en el contenido de tu Jupyter Notebook:
 
-```markdown
 # Clasificación de Señales de Tráfico con GTSRB
 
 Este proyecto tiene como objetivo construir un modelo de **red neuronal convolucional (CNN)** para clasificar imágenes de señales de tráfico utilizando el dataset **GTSRB (German Traffic Sign Recognition Benchmark)**.
